@@ -1,5 +1,3 @@
-From http://aerocene.org/exploration-tools
-
 **Bill of Materials**
 
 * 01 RIPSTOP 7D  (1,45M X 68M) 
