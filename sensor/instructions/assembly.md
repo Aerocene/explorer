@@ -1,1 +1,1 @@
-How to assemble the sensor pack: 
+How to assemble the sensor pack, complete PDF: 
