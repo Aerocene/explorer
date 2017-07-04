@@ -3,5 +3,6 @@
 * In a web browser, go to http://172.24.1.1/
 * Click button "Download Images and Video" to go to http://172.24.1.1/html/preview.php
 * Click button "Select All" and then "Get Zip"
+* Also click the file named "logging" and download it to the same place. 
 
 ![RPi Cam Web Interface](https://github.com/Aerocene/explorer/blob/master/sensor/instructions/images/RPi-cam-interface.png)
